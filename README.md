@@ -1,5 +1,5 @@
 # CodeWars Challenges: [Visit Here](https://www.codewars.com/users/Shiotsuji0)
-![Local Image](./image/december2023.png)
+![Local Image](./image/decemberCodeWars2023.png)
 
 A repository filled with codewars challenges (kata). Currently Ranked 6kyu, Completed over 100+ challenges and Push 5-10 solutions every week.
 
