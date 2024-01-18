@@ -20,4 +20,4 @@ function abbrevName(name){
 	
 	return initials[0][0].toUpperCase() + '.' + initials[1][0].toUpperCase()
 	
-  }
+}
